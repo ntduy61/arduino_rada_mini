@@ -98,9 +98,8 @@ Install the following from the Arduino Library Manager:
 
 ## 📸 Demo Output
 
-(Insert your project photo or video here.)
+![lv_0_20251121232911](https://github.com/user-attachments/assets/1ed9724d-1b98-47ac-970e-d87812a74a6e)
 
----
 
 ## 📜 License
 
