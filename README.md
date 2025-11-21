@@ -66,8 +66,7 @@ The servo sweeps from 0° to 180° and back, while the ultrasonic sensor measure
 ## 📁 Project File Structure
 
 ```
-├── src/
-│   └── radar.ino      # Arduino code
+├── radar_mini.ino     # Arduino code
 ├── README.md          # Project documentation
 ```
 
