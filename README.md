@@ -58,7 +58,7 @@ The servo sweeps from 0° to 180° and back, while the ultrasonic sensor measure
 | ---- | ------- |
 | VCC  | 5V      |
 | GND  | GND     |
-| SCL  | A5      |
+| SCK  | A5      |
 | SDA  | A4      |
 
 ---
